@@ -14,7 +14,7 @@ I implement a tensorflow model of a Conditional Variational Autoencoder
 ## Files
 - cvae.py : Model definition.
 - main.py : Execute training and pass the default value.
-- train.py : Train code.
+- train.py : Training code.
 
 ## How to use
 ### Training
